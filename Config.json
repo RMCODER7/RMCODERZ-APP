@@ -1,5 +1,5 @@
 {
-  "update": false,
+  "update": true,
   "admin_key": "RMVIP2026",
   "token_api": "https://tokencoder.vercel.app/",
   "generate_link": "https://arolinks.com/OEvm8"
