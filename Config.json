@@ -1,5 +1,5 @@
 {
-  "auth_enabled": true,
+  "auth_enabled": false,
   "update": false,
   "admin_key": "RMVIP2026",
   "token_api": "https://tokencoder.vercel.app/",
