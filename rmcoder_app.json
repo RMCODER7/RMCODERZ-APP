@@ -1,0 +1,87 @@
+{
+  "force_update": false,
+  "message": "New version available, please update app.",
+
+
+  "apps": [
+    {
+      "id": "kgs",
+      "name": "KHAN GLOBAL STUDIES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
+      "study_link": "https://spidykgs.vercel.app",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "Popular",
+      "color": "#6366F1"
+    },
+     {
+      "id": "selectionway",
+      "name": "SELECTION WAY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
+      "study_link": "https://spidyway.vercel.app",
+      "download_link": "https://deltastudy.site/selectionway",
+      "tag": "Popular",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "rwa",
+      "name": "ROJGAR WITH ANKIT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqvsASIxLwsfdqSKs1qm-bUoY0Ko0vLP6rPGzay47DA&s",
+      "study_link": "https://spidyuniverserwa.vercel.app",
+      "download_link": "https://spidyuniverserwa.vercel.app",
+      "tag": "",
+      "color": "#6366F1"
+    },
+     {
+      "id": "studyiq",
+      "name": "STUDY IQ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhQ7uIPWu_D8K_xsqsNscViPXM3QiKUAHIXD9Hkontw&s=10",
+      "study_link": "http://spidyiq.vercel.app",
+      "download_link": "http://spidyiq.vercel.app",
+      "tag": "",
+      "color": "#6366F1"
+    },
+     {
+      "id": "testbook",
+      "name": "TESTBOOK",
+      "image": "https://play-lh.googleusercontent.com/oZKb4MS_3fA2URqyMW2QvWqm7Bhjikz_L8002o4VLpIfVUmcVXZUa1OI0r5QS_8b3XA=w240-h480-rw",
+      "study_link": "https://test.pwthor.live/",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Test❤‍🔥",
+      "color": "#EF4444"
+        },
+     {
+      "id": "Gyanbindu ",
+      "name": "Gyanbindu ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFvhxybNgyZB2ctiSjQkoDvGk9KjyK-tG34NGXWwaRA&s=10",
+      "study_link": "https://study-mate.in/gyan",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Popular ",
+      "color": "#EF4444"
+        },
+    {
+      "id": "Cds Journey",
+      "name": "Cds Journey ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72szB7OQoXI1HfSnyzGvSmwXk5fNhmbn7V_1dZlZbjA&s=10",
+      "study_link": "https://cds-journey-omega.vercel.app/",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "CDS🇮🇳🚀✈️",
+      "color": "#EF4444"
+        },
+      {
+      "id": "pw",
+      "name": "PHYSICS WALLAH",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1plcMrWwVtz1_zK8I6kbPtktbGikeJ55Ukuaad408XQ&s",
+      "study_link": "https://pwthor.live/auth",
+      "download_link": "http://Test.deltastudy.site",
+      "tag": "trending ",
+      "color": "#008000"
+    },
+     {
+      "id": "RG Vikramjeet ",
+      "name": "RG Vikarmjeet ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpPDIhLQa9pfBaInjOqZgxFsWpDwSWghhJBmHFEti9w&s=10",
+      "study_link": "http://rgvikramjeetv1.netlify.app",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Popular ",
+      "color": "#EF4444"
+        },
