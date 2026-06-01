@@ -3,7 +3,7 @@
 "dialog_message":"Daily Free Premium Study Material And Updates Available Here.",
 "dialog_link":"https://t.me/yourchannel",
   "auth_enabled": true,
-  "update": false,
+  "update": true,
   "admin_key": "RMVIP2026",
   "token_api": "https://6a1af270fcbec9e96e43d045--splendid-malabi-74ce56.netlify.app/?access=1/",
   "generate_link": "https://arolinks.com/Xy0dLd",
