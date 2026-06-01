@@ -1,9 +1,5 @@
 {
-  "force_update": false,
-  "message": "New version available, please update app.",
-
-
-  "apps": [
+ "apps": [
     {
       "id": "kgs",
       "name": "KHAN GLOBAL STUDIES",
@@ -84,4 +80,6 @@
       "download_link": "http://Sdvmock.page.gd",
       "tag": "Popular ",
       "color": "#EF4444"
-        },
+        }
+  ]
+}
