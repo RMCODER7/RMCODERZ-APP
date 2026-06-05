@@ -91,6 +91,15 @@
       "tag": "Popular",
       "color": "#008000"
     },
+  {
+      "id": "NT",
+      "name": "Vidya Education ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM6hZJkUEeH2DSB_NVVIMcpHGrIE5Es7bEx3wMf_0ZEA&s=10",
+      "study_link": "https://learnfree4u.online/VIDYAE/index.php",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#008000"
+    },
      {
       "id": "RG Vikramjeet ",
       "name": "RG Vikarmjeet ",
