@@ -36,9 +36,18 @@
       "tag": "",
       "color": "#6366F1"
     },
+  {
+      "id": "studyiq",
+      "name": "STUDY IQ(NEW BATCHES)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhQ7uIPWu_D8K_xsqsNscViPXM3QiKUAHIXD9Hkontw&s=10",
+      "study_link": "https://sangam.free.nf/studyiq/",
+      "download_link": "http://spidyiq.vercel.app",
+      "tag": "",
+      "color": "#6366F1"
+    },
      {
       "id": "studyiq",
-      "name": "STUDY IQ",
+      "name": "STUDY IQ (OLD BATCHES)",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhQ7uIPWu_D8K_xsqsNscViPXM3QiKUAHIXD9Hkontw&s=10",
       "study_link": "http://spidyiq.vercel.app",
       "download_link": "http://spidyiq.vercel.app",
