@@ -9,6 +9,15 @@
       "tag": "Popular",
       "color": "#6366F1"
     },
+    {
+      "id": "kgs",
+      "name": "KHAN GLOBAL STUDIES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
+      "study_link": "https://kgsfreebatchall.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "Popular",
+      "color": "#6366F1"
+    },
   {
       "id": "selectionway",
       "name": "Eduteria🌳",
