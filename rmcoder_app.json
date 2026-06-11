@@ -27,6 +27,15 @@
       "tag": "Popular",
       "color": "#F59E0B"
     },
+  {
+      "id": "selectionway",
+      "name": "SELECTION WAY TEST SERIES ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
+      "study_link": "https://testrankingfree.vercel.app/",
+      "download_link": "https://deltastudy.site/selectionway",
+      "tag": "Popular",
+      "color": "#800013"
+    },
     {
       "id": "rwa",
       "name": "ROJGAR WITH ANKIT",
@@ -153,6 +162,15 @@
       "download_link": "http://Sdvmock.page.gd",
       "tag": "Popular ",
       "color": "#EF4444"
-        }
+        },
+    {
+      "id": "A",
+      "name": "Coding & Skills ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFcT30jUWxKpkI8NPfMpaW3B6cNPf8ZLy4dRQH2kKU8XrimIrHV_aJbk&s=10",
+      "study_link": "https://gatewayclasses.vercel.app",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "Coding",
+      "color": "#800062"
+    }
   ]
 }
