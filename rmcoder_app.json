@@ -1,6 +1,15 @@
 {
  "apps": [
-    {
+      {
+      "id": "kgs",
+      "name": "Free Connect",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OJAJrlD0AIWYuggYYJgJ_KnuetoNXDg8X1bCxIMyTRDBEWbIUzRQhu4&s=10",
+      "study_link": "https://madxrohit.vercel.app/connect.html",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "Not For Sale",
+      "color": "#6366F1"
+    },
+  {
       "id": "kgs",
       "name": "KHAN GLOBAL STUDIES",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
