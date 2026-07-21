@@ -1,18 +1,10 @@
 {
  "apps": [
-   {
+   { 
       "id": "kgs",
-      "name": "Futurekul",
-      "image": " {
-      "id": "kgs",
-      "name": "Parmar Academy ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFYkvZRx1nezOG8VWwELLLOoygIzy6IdgVYg&s",
+      "name": "Future Kul ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6uvI2uen5h15ACS3VBWWLbR5x-oZ1oh9G8m6f1dls3FGZlSgrlXWuI4&s=10",
       "study_link": "http://Mtaiirus.pages.dev/futurekul",
-      "download_link": "https://spidykgs.vercel.app",
-      "tag": "New",
-      "color": "#6366F1"
-    },",
-      "study_link": "https://allinonex.freedev.app/tkk/home.html?domainId=7777",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "New",
       "color": "#6366F1"
