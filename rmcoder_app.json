@@ -1,5 +1,14 @@
 {
  "apps": [
+  { 
+      "id": "md",
+      "name": "MD CLASS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgEAo3vyQWDDpBvmN6yE0nhknXGEqNbA8uZ_DcetKPg&s",
+      "study_link": "https://mdclassesx.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
    { 
       "id": "kgs",
       "name": "Future Kul ",
