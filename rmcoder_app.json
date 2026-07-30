@@ -2,7 +2,7 @@
  "apps": [
   { 
       "id": "gs",
-      "name": "GS VISION ,
+      "name": "GS VISION ",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgEAo3vyQWDDpBvmN6yE0nhknXGEqNbA8uZ_DcetKPg&s",
       "study_link": "https://nexthope.pages.dev/gsvision/",
       "download_link": "https://spidykgs.vercel.app",
