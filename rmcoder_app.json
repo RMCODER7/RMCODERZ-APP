@@ -4,20 +4,12 @@
       "id": "kgs",
       "name": "Future Kul ",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6uvI2uen5h15ACS3VBWWLbR5x-oZ1oh9G8m6f1dls3FGZlSgrlXWuI4&s=10",
-      "study_link": "http://Mtaiirus.pages.dev/futurekul",
+      "study_link": "https://nexthope.pages.dev/futurekul/",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "New",
       "color": "#6366F1"
     },
-  {
-      "id": "kgs",
-      "name": "Parmar Academy ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFYkvZRx1nezOG8VWwELLLOoygIzy6IdgVYg&s",
-      "study_link": "https://allinonex.freedev.app/tkk/home.html?domainId=7777",
-      "download_link": "https://spidykgs.vercel.app",
-      "tag": "New",
-      "color": "#6366F1"
-    },
+
       {
       "id": "kgs",
       "name": "Sachin Academy ",
@@ -27,6 +19,15 @@
       "tag": "Not For Sale",
       "color": "#6366F1"
     },
+  {
+      "id": "Gyan",
+      "name": "Gyanbindu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFvhxybNgyZB2ctiSjQkoDvGk9KjyK-tG34NGXWwaRA&s=10",
+      "study_link": "https://gyanbindu.codxraj.site",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "New",
+      "color": "#EF4444"
+        },
   {
       "id": "kgs",
       "name": "KHAN GLOBAL STUDIES",
@@ -67,7 +68,7 @@
       "id": "rwa",
       "name": "ROJGAR WITH ANKIT",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqvsASIxLwsfdqSKs1qm-bUoY0Ko0vLP6rPGzay47DA&s",
-      "study_link": "https://rojgarwithankitt.vercel.app",
+      "study_link": "https://spidyuniverserwa.vercel.app/",
       "download_link": "https://spidyuniverserwa.vercel.app",
       "tag": "",
       "color": "#6366F1"
@@ -112,7 +113,7 @@
       "id": "Cds Journey",
       "name": "Cds Journey ",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72szB7OQoXI1HfSnyzGvSmwXk5fNhmbn7V_1dZlZbjA&s=10",
-      "study_link": "https://cds-journey-omega.vercel.app/",
+      "study_link": "https://spidycds.vercel.app/",
       "download_link": "http://Sdvmock.page.gd",
       "tag": "CDS🇮🇳🚀✈️",
       "color": "#EF4444"
@@ -145,15 +146,7 @@
       "tag": "Popular",
       "color": "#008000"
     },
-  {
-      "id": "ve",
-      "name": "Vidya Education ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM6hZJkUEeH2DSB_NVVIMcpHGrIE5Es7bEx3wMf_0ZEA&s=10",
-      "study_link": "https://learnfree4u.online/VIDYAE/index.php",
-      "download_link": "https://backbencherz.netlify.app/",
-      "tag": "New",
-      "color": "#008000"
-    },
+ 
   {
       "id": "cW",
       "name": "CW CTET ",
@@ -176,7 +169,7 @@
       "id": "VA",
       "name": "VIBRANT ACADEMY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmuYdKB7UQncU20kBaRb77EZ0ud1wr_Eusl-E_NMvDQ&s=10",
-      "study_link": "https://learnbyakp.online/vibrant1",
+      "study_link": "https://nexthope.pages.dev/vb/",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "New",
       "color": "#000480"
@@ -185,7 +178,7 @@
       "id": "A",
       "name": "UNACADEMY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoD260MXEH1aYOimogVz-ZN5bBDHcEJlfXcDX4dbHJg&s=10",
-      "study_link": "https://rwalive.xo.je/batches.html",
+      "study_link": "https://nexthope.pages.dev/unacademy/",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "New",
       "color": "#000480"
@@ -217,15 +210,7 @@
       "tag": "New",
       "color": "#EF4444"
         },
-   {
-      "id": "Gyan",
-      "name": "Gyanbindu",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFvhxybNgyZB2ctiSjQkoDvGk9KjyK-tG34NGXWwaRA&s=10",
-      "study_link": "https://gyanbindu.codxraj.site",
-      "download_link": "http://Sdvmock.page.gd",
-      "tag": "New",
-      "color": "#EF4444"
-        },
+   
  
     {
       "id": "A",
