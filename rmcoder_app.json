@@ -146,6 +146,15 @@
       "tag": "trending ",
       "color": "#008000"
     },
+  {
+      "id": "A",
+      "name": "PW PI OTT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWGqw7jtjlOB2XNmmAtUCr_CX2pzTvX_wEo8xKHw96JNoxTzl7g_dT2g&s=10",
+      "study_link": "https://pipro.therankforge.site/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
  {
       "id": "NT",
       "name": "Next Topper",
@@ -188,6 +197,24 @@
       "name": "VIBRANT ACADEMY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmuYdKB7UQncU20kBaRb77EZ0ud1wr_Eusl-E_NMvDQ&s=10",
       "study_link": "https://nexthope.pages.dev/vb/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+    {
+      "id": "A",
+      "name": "Mission Jeet",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxqHnOjWBCBOJtXrVn-YnO7pCZktYOINHOxmOFHPcgg&s=10",
+      "study_link": "https://nexthope.pages.dev/mj/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+    {
+      "id": "A",
+      "name": "Topper Wisdom ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9A1gBjbONI4R8THMtzf9RfSwDu-bLSFwuVw&s",
+      "study_link": "https://nexthope.pages.dev/topperswisdom/",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "New",
       "color": "#000480"
