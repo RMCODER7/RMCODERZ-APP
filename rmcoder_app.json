@@ -274,6 +274,15 @@
       "tag": "New",
       "color": "#EF4444"
         },
+  { 
+      "id": "gs",
+      "name": "PINNACLE EBOOKS",
+      "image": "https://b3books.in/cdn/shop/collections/favicon.png?v=1758976756",
+      "study_link": "https://nexthope.pages.dev/pinnacle/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
    
  
     {
