@@ -238,33 +238,7 @@
       "tag": "New",
       "color": "#000480"
     },
-     {
-      "id": "RG Vikramjeet ",
-      "name": "RG Vikarmjeet ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpPDIhLQa9pfBaInjOqZgxFsWpDwSWghhJBmHFEti9w&s=10",
-      "study_link": "http://rgvikramjeetv1.netlify.app",
-      "download_link": "http://Sdvmock.page.gd",
-      "tag": "Popular ",
-      "color": "#EF4444"
-        },
-    {
-      "id": " Sk Jha",
-      "name": "Aash Education",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEgPfTb5u0BZr9zrh89ZvGyADlKEe5FCwboZyiNwhaw&s",
-      "study_link": "https://mtaiirus.pages.dev/imp/?Institutename=aash",
-      "download_link": "http://Sdvmock.page.gd",
-      "tag": "New",
-      "color": "#EF4444"
-        },
-  {
-      "id": "Winners",
-      "name": "Winners Institute",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgproSM4zVC2GOzDXn_1HkZYJ6IvdhM7kY3btSgUXWg&s=10",
-      "study_link": "http://eduteria.netlify.app/",
-      "download_link": "http://Sdvmock.page.gd",
-      "tag": "New",
-      "color": "#EF4444"
-        },
+ 
   {
       "id": "Tnc",
       "name": "TNC NURSING ",
