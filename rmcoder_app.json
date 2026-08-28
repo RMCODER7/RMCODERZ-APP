@@ -1,5 +1,14 @@
 {
  "apps": [
+    { 
+      "id": "vidya",
+      "name": "Vidyagram",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjx6hhiJFSC1JgK4K0UUTKPKoGrbxq3-AAbBzbc_IEHg&s",
+      "study_link": "https://studyapkmod-vidyagramx.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
   { 
       "id": "gs",
       "name": "GS VISION ",
