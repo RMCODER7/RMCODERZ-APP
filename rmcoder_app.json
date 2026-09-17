@@ -1,5 +1,14 @@
 {
  "apps": [
+   { 
+      "id": "PAR",
+      "name": "PARMAR ACADEMY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgEAo3vyQWDDpBvmN6yE0nhknXGEqNbA8uZ_DcetKPg&s",
+      "study_link": "https://vivid-kohl.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
     { 
       "id": "vidya",
       "name": "Vidyagram",
