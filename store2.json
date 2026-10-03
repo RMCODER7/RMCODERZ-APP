@@ -1,16 +1,17 @@
+
 {
- "apps": [
-   { 
-      "id": "ALFREE",
-      "name": "ALL FREE BATCH ",
+  "apps": [
+    {
+      "id": "alfree",
+      "name": "ALL FREE BATCH",
       "image": "📖",
       "study_link": "https://www.allcompetitionclasses.com/",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "New",
       "color": "#6366F1"
     },
-   { 
-      "id": "PAR",
+    {
+      "id": "parmar",
       "name": "PARMAR ACADEMY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgEAo3vyQWDDpBvmN6yE0nhknXGEqNbA8uZ_DcetKPg&s",
       "study_link": "https://pr-codexstudy.vercel.app/",
@@ -18,27 +19,26 @@
       "tag": "New",
       "color": "#6366F1"
     },
-    { 
-      "id": "vidya",
-      "name": "Vidyagram",
+    {
+      "id": "vidyagram",
+      "name": "VIDYAGRAM",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjx6hhiJFSC1JgK4K0UUTKPKoGrbxq3-AAbBzbc_IEHg&s",
       "study_link": "https://studyapkmod-vidyagramx.vercel.app/",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "New",
       "color": "#6366F1"
     },
-  { 
-      "id": "gs",
-      "name": "GS VISION ",
+    {
+      "id": "gsvision",
+      "name": "GS VISION",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgEAo3vyQWDDpBvmN6yE0nhknXGEqNbA8uZ_DcetKPg&s",
       "study_link": "https://nexthope.pages.dev/gsvision/",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "New",
       "color": "#6366F1"
     },
-
-  { 
-      "id": "gs",
+    {
+      "id": "targetboard",
       "name": "TARGET BOARD",
       "image": "https://play-lh.googleusercontent.com/PjG-ouz0Z1S4aJyA2ZsjVaLLd8h1WgR8kzvP4ff0zP2Z7yvjDKy60K2R3OmGbJwaJRruf8aPf7aoGe8nM-EIcQ",
       "study_link": "https://studybeepro.site/tb/",
@@ -46,8 +46,8 @@
       "tag": "New",
       "color": "#6366F1"
     },
-  { 
-      "id": "md",
+    {
+      "id": "mdclass",
       "name": "MD CLASS",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgEAo3vyQWDDpBvmN6yE0nhknXGEqNbA8uZ_DcetKPg&s",
       "study_link": "https://mdclassesx.vercel.app/",
@@ -55,35 +55,26 @@
       "tag": "New",
       "color": "#6366F1"
     },
-   { 
-      "id": "kgs",
-      "name": "Future Kul ",
+    {
+      "id": "futurekul",
+      "name": "FUTURE KUL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6uvI2uen5h15ACS3VBWWLbR5x-oZ1oh9G8m6f1dls3FGZlSgrlXWuI4&s=10",
       "study_link": "https://nexthope.pages.dev/futurekul/",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "New",
       "color": "#6366F1"
     },
-
-      {
-      "id": "kgs",
-      "name": "Sachin Academy ",
+    {
+      "id": "sachinacademy",
+      "name": "SACHIN ACADEMY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ARvGiafm6kCYqTXVtdTPfEMJqZoe0tUcCavl6NCXh21qPy54xIeM7yM&s=10",
       "study_link": "https://sachinclassex1.vercel.app/",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "Not For Sale",
       "color": "#6366F1"
     },
-  {
-      "id": "Gyan",
-      "name": "Gyanbindu",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFvhxybNgyZB2ctiSjQkoDvGk9KjyK-tG34NGXWwaRA&s=10",
-      "study_link": "https://gyanbindu.codxraj.site",
-      "download_link": "http://Sdvmock.page.gd",
-      "tag": "New",
-      "color": "#EF4444"
-        },
-  {
+   
+    {
       "id": "kgs",
       "name": "KHAN GLOBAL STUDIES",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
@@ -93,15 +84,15 @@
       "color": "#6366F1"
     },
     {
-      "id": "kgs",
-      "name": "KHAN GLOBAL STUDIES",
+      "id": "kgsfree",
+      "name": "KHAN GLOBAL STUDIES FREE",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
       "study_link": "https://kgsfreebatchall.vercel.app/",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "Popular",
       "color": "#6366F1"
     },
-     {
+    {
       "id": "selectionway",
       "name": "SELECTION WAY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
@@ -110,9 +101,9 @@
       "tag": "Popular",
       "color": "#F59E0B"
     },
-  {
-      "id": "selectionway",
-      "name": "SELECTION WAY TEST SERIES ",
+    {
+      "id": "selectionwaytest",
+      "name": "SELECTION WAY TEST SERIES",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
       "study_link": "https://testrankingfree.vercel.app/",
       "download_link": "https://deltastudy.site/selectionway",
@@ -128,18 +119,18 @@
       "tag": "",
       "color": "#6366F1"
     },
-  {
-      "id": "studyiq",
-      "name": "STUDY IQ(NEW BATCHES)",
+    {
+      "id": "studyiqnew",
+      "name": "STUDY IQ NEW BATCHES",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhQ7uIPWu_D8K_xsqsNscViPXM3QiKUAHIXD9Hkontw&s=10",
       "study_link": "https://sangam.free.nf/studyiq/",
       "download_link": "http://spidyiq.vercel.app",
       "tag": "",
       "color": "#6366F1"
     },
-     {
-      "id": "studyiq",
-      "name": "STUDY IQ (OLD BATCHES)",
+    {
+      "id": "studyiqold",
+      "name": "STUDY IQ OLD BATCHES",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhQ7uIPWu_D8K_xsqsNscViPXM3QiKUAHIXD9Hkontw&s=10",
       "study_link": "http://spidyiq.vercel.app",
       "download_link": "http://spidyiq.vercel.app",
@@ -154,37 +145,45 @@
       "download_link": "http://Sdvmock.page.gd",
       "tag": "Test❤‍🔥",
       "color": "#EF4444"
-        },
-     {
-      "id": "testbook",
-      "name": "TESTBOOK",
+    },
+    {
+      "id": "testbooktest",
+      "name": "TESTBOOK TEST",
       "image": "https://play-lh.googleusercontent.com/oZKb4MS_3fA2URqyMW2QvWqm7Bhjikz_L8002o4VLpIfVUmcVXZUa1OI0r5QS_8b3XA=w240-h480-rw",
       "study_link": "https://test.pwthor.live/",
       "download_link": "http://Sdvmock.page.gd",
       "tag": "Test❤‍🔥",
       "color": "#EF4444"
-        },
+    },
     {
-      "id": "Cds Journey",
-      "name": "Cds Journey ",
+      "id": "cdsjourney",
+      "name": "CDS JOURNEY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72szB7OQoXI1HfSnyzGvSmwXk5fNhmbn7V_1dZlZbjA&s=10",
       "study_link": "https://spidyuniversecds.vercel.app/",
       "download_link": "http://Sdvmock.page.gd",
       "tag": "CDS🇮🇳🚀✈️",
       "color": "#EF4444"
-        },
-
-      {
+    },
+    {
       "id": "pw",
       "name": "PHYSICS WALLAH",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1plcMrWwVtz1_zK8I6kbPtktbGikeJ55Ukuaad408XQ&s",
       "study_link": "https://pwthor.live/study/batches",
       "download_link": "http://Test.deltastudy.site",
-      "tag": "trending ",
+      "tag": "Trending",
       "color": "#008000"
     },
-  {
-      "id": "A",
+    {
+      "id": "pwcodex",
+      "name": "PW 2.0",
+      "image": "https://codexstudys.vercel.app/img/pw.png",
+      "study_link": "https://pw-codexstudys.vercel.app/",
+      "download_link": "https://pw-codexstudys.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "pwiott",
       "name": "PW PI OTT",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWGqw7jtjlOB2XNmmAtUCr_CX2pzTvX_wEo8xKHw96JNoxTzl7g_dT2g&s=10",
       "study_link": "https://pipro.therankforge.site/",
@@ -192,28 +191,27 @@
       "tag": "New",
       "color": "#000480"
     },
- {
-      "id": "NT",
-      "name": "Next Topper",
+    {
+      "id": "nexttopper",
+      "name": "NEXT TOPPER",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IXk64isT48glTv-5DobS3YZdAsGHOQV9J3q8IPy8i4kKhyWAcgRWLAEw&s=10",
       "study_link": "https://spidytopper.vercel.app/",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "Popular",
       "color": "#008000"
     },
-   {
-      "id": "NT",
-      "name": "Next Topper",
+    {
+      "id": "nexttopperweb",
+      "name": "NEXT TOPPER",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IXk64isT48glTv-5DobS3YZdAsGHOQV9J3q8IPy8i4kKhyWAcgRWLAEw&s=10",
       "study_link": "https://backbencherz.netlify.app/",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "Popular",
       "color": "#008000"
     },
- 
-  {
-      "id": "cW",
-      "name": "CW CTET ",
+    {
+      "id": "cwctet",
+      "name": "CW CTET",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAB_URIwHn37n8wv-FR6lhXAS7clYsz2wD_VbdNlJlGVj6S3KVb1i0cXbi&s=10",
       "study_link": "https://sangam.free.nf/CW/course_index.html",
       "download_link": "https://backbencherz.netlify.app/",
@@ -221,7 +219,7 @@
       "color": "#000480"
     },
     {
-      "id": "CW",
+      "id": "careerwill",
       "name": "CAREERWILL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmYE_faasYwfAs0rQKDf4GcuoV7_Ws6ZUqWwmIpuHVSw&s",
       "study_link": "https://runtkyp.xo.je/",
@@ -230,7 +228,16 @@
       "color": "#000480"
     },
     {
-      "id": "VA",
+      "id": "cwcodex",
+      "name": "CARRERWILL NEW ",
+      "image": "https://codexstudys.vercel.app/img/cw.png",
+      "study_link": "https://cw-codexstudy.vercel.app/",
+      "download_link": "https://cw-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+    {
+      "id": "vibrant",
       "name": "VIBRANT ACADEMY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmuYdKB7UQncU20kBaRb77EZ0ud1wr_Eusl-E_NMvDQ&s=10",
       "study_link": "https://nexthope.pages.dev/vb/",
@@ -239,8 +246,17 @@
       "color": "#000480"
     },
     {
-      "id": "A",
-      "name": "Mission Jeet",
+      "id": "vgcodex",
+      "name": "VIDYAGRAM",
+      "image": "https://codexstudys.vercel.app/img/vg.png",
+      "study_link": "https://vg-codexstudy.vercel.app/",
+      "download_link": "https://vg-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "missionjeet",
+      "name": "MISSION JEET",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxqHnOjWBCBOJtXrVn-YnO7pCZktYOINHOxmOFHPcgg&s=10",
       "study_link": "https://nexthope.pages.dev/mj/",
       "download_link": "https://backbencherz.netlify.app/",
@@ -248,16 +264,16 @@
       "color": "#000480"
     },
     {
-      "id": "A",
-      "name": "Topper Wisdom ",
+      "id": "topperswisdom",
+      "name": "TOPPER WISDOM",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9A1gBjbONI4R8THMtzf9RfSwDu-bLSFwuVw&s",
       "study_link": "https://nexthope.pages.dev/topperswisdom/",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "New",
       "color": "#000480"
     },
-  {
-      "id": "A",
+    {
+      "id": "unacademy",
       "name": "UNACADEMY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoD260MXEH1aYOimogVz-ZN5bBDHcEJlfXcDX4dbHJg&s=10",
       "study_link": "https://nexthope.pages.dev/unacademy/",
@@ -265,18 +281,18 @@
       "tag": "New",
       "color": "#000480"
     },
- 
-  {
-      "id": "Tnc",
-      "name": "TNC NURSING ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygquMU-QRwMJ2OI-jVqxFiZmqzt3YfBEc8maP11W5kfMuoqi3Nw3JaXMj&s=10",
-      "study_link": "https://tnc-vedio.onrender.com/",
-      "download_link": "http://Sdvmock.page.gd",
+    {
+      "id": "unacademycodex",
+      "name": "UC LIVE",
+      "image": "https://codexstudys.vercel.app/img/uc.png",
+      "study_link": "https://uc-codexstudy.vercel.app/",
+      "download_link": "https://uc-codexstudy.vercel.app/",
       "tag": "New",
-      "color": "#EF4444"
-        },
-  { 
-      "id": "gs",
+      "color": "#6366F1"
+    },
+
+    {
+      "id": "pinnacle",
       "name": "PINNACLE EBOOKS",
       "image": "https://b3books.in/cdn/shop/collections/favicon.png?v=1758976756",
       "study_link": "https://nexthope.pages.dev/pinnacle/",
@@ -284,16 +300,95 @@
       "tag": "New",
       "color": "#6366F1"
     },
-   
- 
     {
-      "id": "A",
-      "name": "Coding & Skills ",
+      "id": "coding",
+      "name": "CODING & SKILLS",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFcT30jUWxKpkI8NPfMpaW3B6cNPf8ZLy4dRQH2kKU8XrimIrHV_aJbk&s=10",
       "study_link": "https://gatewayclasses.vercel.app",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "Coding",
       "color": "#800062"
+    },
+    {
+      "id": "vidyakul",
+      "name": "VIDYAKUL",
+      "image": "https://codexstudys.vercel.app/img/vidyakul.png",
+      "study_link": "https://vidyakul-codexstudy.vercel.app/",
+      "download_link": "https://vidyakul-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "teria",
+      "name": " Edu TERIA",
+      "image": "https://codexstudys.vercel.app/img/teria.png",
+      "study_link": "https://teria-codexstudy.vercel.app/",
+      "download_link": "https://teria-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "gbcodex",
+      "name": "Gyanbindu",
+      "image": "https://codexstudys.vercel.app/img/gb.png",
+      "study_link": "https://gb-codexstudy.vercel.app/",
+      "download_link": "https://gb-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "tbcode",
+      "name": "TARGET BOARD",
+      "image": "https://codexstudys.vercel.app/img/tb.png",
+      "study_link": "https://tb-codexstudy.vercel.app/",
+      "download_link": "https://tb-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "officer",
+      "name": "OFFICER ACADEMY",
+      "image": "https://codexstudys.vercel.app/img/officer.png",
+      "study_link": "https://officer-codexstudy.vercel.app/",
+      "download_link": "https://officer-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "aash",
+      "name": "AASH Sk Jha",
+      "image": "https://codexstudys.vercel.app/img/aash.png",
+      "study_link": "https://aash-codexstudy.vercel.app/",
+      "download_link": "https://aash-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "sm",
+      "name": "Science Magnets",
+      "image": "https://codexstudys.vercel.app/img/sm.png",
+      "study_link": "https://sm-codexstudy.vercel.app/",
+      "download_link": "https://sm-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "kd",
+      "name": "KD Live",
+      "image": "https://codexstudys.vercel.app/img/kd.png",
+      "study_link": "https://kd-codexstudy.vercel.app/",
+      "download_link": "https://kd-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+    {
+      "id": "mm",
+      "name": "Maths Mania",
+      "image": "https://codexstudys.vercel.app/img/mm.png",
+      "study_link": "https://mm-codexstudy.vercel.app/",
+      "download_link": "https://mm-codexstudy.vercel.app/",
+      "tag": "New",
+      "color": "#6366F1"
     }
   ]
 }
