@@ -83,9 +83,18 @@
       "tag": "Popular",
       "color": "#6366F1"
     },
+     {
+      "id": "kgs2",
+      "name": "KHAN GLOBAL STUDIES 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
+      "study_link": "https://kgs-6r2n.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "Popular",
+      "color": "#6366F1"
+    },
     {
       "id": "kgsfree",
-      "name": "KHAN GLOBAL STUDIES FREE",
+      "name": "KHAN GLOBAL STUDIES 3",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
       "study_link": "https://kgs-gamma.vercel.app/batches",
       "download_link": "https://spidykgs.vercel.app",
