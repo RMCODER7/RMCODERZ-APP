@@ -11,6 +11,15 @@
       "color": "#6366F1"
     },
      {
+      "id": "PWBOOK",
+      "name": "PW BOOK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRer8oad1p28ArRprX_GU6yjym-n8P4gp4PPkXH2po9BQ&s=10",
+      "study_link": "https://madxrohit.vercel.app/pwbook.html",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Book",
+      "color": "#EF4444"
+    },
+     {
       "id": "EDUTERIA",
       "name": "EDUTERIA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtIgStFQLzO4qgVHc5WhyWJbsSt8_My0LGxSw1DdQFuw&s=10",
