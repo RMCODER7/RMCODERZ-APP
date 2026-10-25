@@ -10,6 +10,15 @@
       "tag": "New",
       "color": "#6366F1"
     },
+     {
+      "id": "EDUTERIA",
+      "name": "EDUTERIA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtIgStFQLzO4qgVHc5WhyWJbsSt8_My0LGxSw1DdQFuw&s=10",
+      "study_link": "https://eduteria.study-mate.in/eduteria",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "New",
+      "color": "#EF4444"
+    },
     {
       "id": "testbook",
       "name": "TESTBOOK",
