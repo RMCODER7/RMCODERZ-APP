@@ -138,6 +138,15 @@
       "color": "#F59E0B"
     },
     {
+      "id": "selectionway",
+      "name": "SELECTION WAY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
+      "study_link": "https://nexthope.cc.cd/sw/",
+      "download_link": "https://deltastudy.site/selectionway",
+      "tag": "Popular",
+      "color": "#F59E0B"
+    },
+    {
       "id": "selectionwaytest",
       "name": "SELECTION WAY TEST SERIES",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
@@ -294,7 +303,7 @@
       "id": "unacademy",
       "name": "UNACADEMY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoD260MXEH1aYOimogVz-ZN5bBDHcEJlfXcDX4dbHJg&s=10",
-      "study_link": "https://nexthope.pages.dev/unacademy/",
+      "study_link": "https://nexthope.cc.cd/unacademy/",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "New",
       "color": "#000480"
