@@ -4,6 +4,9 @@
 "dialog_link":"https://whatsapp.com/channel/0029VakDgLmBA1f6TRykhY0E",
   "auth_enabled": true,
   "update": false,
+  "Providerupdate": false,
+  "logo_url": "https://your-domain.com/newlogo.png"
+  
   "admin_key": "RMFREE2026",
   "token_api": "https://6a1af270fcbec9e96e43d045--splendid-malabi-74ce56.netlify.app/?access=1/",
   "generate_link": "https://arolinks.com/rjh2AE",
