@@ -18,4 +18,15 @@
       "download_link": "https://spidykgs.vercel.app",
       "tag": "Popular",
       "color": "#6366F1"
+    },
+    {
+      "id": "A",
+      "name": "Coding & Skills ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFcT30jUWxKpkI8NPfMpaW3B6cNPf8ZLy4dRQH2kKU8XrimIrHV_aJbk&s=10",
+      "study_link": "https://gatewayclasses.vercel.app",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "Coding",
+      "color": "#800062"
     }
+  ]
+}
