@@ -1,6 +1,20 @@
 
-{ "auth_enabled": true,
-  
+{
+  "auth_enabled": true,
+  "sliders": [
+    {
+      "title": "CINEMA PREMIERE",
+      "image": "https://img.magnific.com/premium-vector/premium-text-effect-welcome-vibrant-color-illustration_1305929-2749.jpg?semt=ais_hybrid&w=740&q=80",
+      "link": "https://example.com/watch1"
+    }
+  ],
+  "dialog": {
+    "title": "JOIN OUR COMMUNITY",
+    "subtitle": "Updates aur naye apps sabse pehle paao",
+    "madxrohit_link": "https://whatsapp.com/channel/0029VakDgLmBA1f6TRykhY0E",
+    "all_apps_link": "https://whatsapp.com/channel/0029Vb7urtSFXUujhLSqwD1M",
+    "rmcoder_link": "https://whatsapp.com/channel/0029VaoR6zDG8l5720JUZf1T"
+  },
   "apps": [
     {
       "id": "alfree",
@@ -29,5 +43,16 @@
       "tag": "Coding",
       "color": "#800062"
     }
+  ],
+  "tv_shows": [
+    {
+      "id": "tv1",
+      "name": "CINEMA SHOW 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4-ESXtSDNdyDFmV5mck0e7zN3musi7b-P5B_T8iaaw&s=10",
+      "study_link": "https://net.nexusflix.eu.cc/",
+      "tag": "LIVE",
+      "color": "#E11D48"
+    }
   ]
 }
+
