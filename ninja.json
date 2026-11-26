@@ -1,19 +1,35 @@
 
 {
   "auth_enabled": true,
+  "block_screenshot": true,
   "sliders": [
     {
-      "title": "CINEMA PREMIERE",
+      "title": "SLIDE 1",
       "image": "https://img.magnific.com/premium-vector/premium-text-effect-welcome-vibrant-color-illustration_1305929-2749.jpg?semt=ais_hybrid&w=740&q=80",
-      "link": "https://example.com/watch1"
+      "link": "https://example.com/link1"
+    },
+    {
+      "title": "SLIDE 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwziw7kx2IK7sFRgrmsKC_Mac4RyYujFmWojPzAYF3jJNWA8tSLAa-fLQ&s=10",
+      "link": "https://example.com/link2"
+    },
+    {
+      "title": "SLIDE 3",
+      "image": "https://example.com/slide3.jpg",
+      "link": "https://example.com/link3"
+    },
+    {
+      "title": "SLIDE 4",
+      "image": "https://example.com/slide4.jpg",
+      "link": "https://example.com/link4"
     }
   ],
   "dialog": {
     "title": "JOIN OUR COMMUNITY",
     "subtitle": "Updates aur naye apps sabse pehle paao",
-    "madxrohit_link": "https://whatsapp.com/channel/0029VakDgLmBA1f6TRykhY0E",
-    "all_apps_link": "https://whatsapp.com/channel/0029Vb7urtSFXUujhLSqwD1M",
-    "rmcoder_link": "https://whatsapp.com/channel/0029VaoR6zDG8l5720JUZf1T"
+    "backup_channel": "https://whatsapp.com/channel/0029VaoR6zDG8l5720JUZf1T",
+    "main_channel": "https://whatsapp.com/channel/0029VakDgLmBA1f6TRykhY0E",
+    "telegram_channel": "https://whatsapp.com/channel/0029Vb7urtSFXUujhLSqwD1M"
   },
   "apps": [
     {
