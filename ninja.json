@@ -46,10 +46,35 @@
   ],
   "tv_shows": [
     {
-      "id": "tv1",
-      "name": "CINEMA SHOW 1",
+      "id": "tv2",
+      "name": "Netflix",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4-ESXtSDNdyDFmV5mck0e7zN3musi7b-P5B_T8iaaw&s=10",
       "study_link": "https://net.nexusflix.eu.cc/",
+      "tag": "LIVE",
+      "color": "#E11D48"
+    },
+      {
+      "id": "tv4",
+      "name": "Spotify",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBD_K9JdZ2ghWpJVl-TeDlG8IJqSXZ_Svur3KJdoH_xg&s",
+      "study_link": "https://spotify.nexusflix.eu.cc/",
+      "tag": "LIVE",
+      "color": "#E11D48"
+    },
+      {
+      "id": "tv5",
+      "name": "Live TV ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUzNBZurKp_b_rxkamVfnPFILSX-AjYZ_jgNtows_cdNVxnUKYf9j0WCs&s",
+      "study_link": "https://desitv.nexusflix.eu.cc/",
+      "tag": "LIVE",
+      "color": "#E11D48"
+    },
+    
+    {
+      "id": "tv2",
+      "name": "Sony Live Tv",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8sbGC6L5iHKxLa0qivgGc0YoBxyU0-ZPqCnRbgEGVng&s",
+      "study_link": "https://sony.nexusflix.eu.cc/",
       "tag": "LIVE",
       "color": "#E11D48"
     }
