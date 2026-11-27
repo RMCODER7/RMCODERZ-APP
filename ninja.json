@@ -6,22 +6,22 @@
     {
       "title": "SLIDE 1",
       "image": "https://img.magnific.com/premium-vector/premium-text-effect-welcome-vibrant-color-illustration_1305929-2749.jpg?semt=ais_hybrid&w=740&q=80",
-      "link": "https://example.com/link1"
+      "link": "none"
     },
     {
       "title": "SLIDE 2",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwziw7kx2IK7sFRgrmsKC_Mac4RyYujFmWojPzAYF3jJNWA8tSLAa-fLQ&s=10",
-      "link": "https://example.com/link2"
+      "link": "none"
     },
     {
       "title": "SLIDE 3",
-      "image": "https://example.com/slide3.jpg",
-      "link": "https://example.com/link3"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRSjer54T6_BSnomyPUPoqL5YHvfeckGFXxDYRGWvrcYR_NUehVUrksBmV&s=10",
+      "link": "none"
     },
     {
       "title": "SLIDE 4",
-      "image": "https://example.com/slide4.jpg",
-      "link": "https://example.com/link4"
+      "image": "https://raw.githubusercontent.com/RMCODER7/RMCODERZ-APP/main/1785344765980.png",
+      "link": "none"
     }
   ],
   "dialog": {
@@ -41,11 +41,20 @@
       "tag": "New",
       "color": "#6366F1"
     },
+    {
+      "id": "alfr",
+      "name": "Server 1 ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRSjer54T6_BSnomyPUPoqL5YHvfeckGFXxDYRGWvrcYR_NUehVUrksBmV&s=10",
+      "study_link": "https://pwnexus.eu.cc/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
      {
       "id": "kgsfree",
       "name": "KHAN GLOBAL STUDIES 3",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
-      "study_link": "https://kgs-gamma.vercel.app/batches",
+      "study_link": "https://spidykgs.vercel.app",
       "download_link": "https://spidykgs.vercel.app",
       "tag": "Popular",
       "color": "#6366F1"
