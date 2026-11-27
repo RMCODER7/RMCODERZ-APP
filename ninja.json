@@ -50,13 +50,20 @@
       "tag": "New",
       "color": "#6366F1"
     },
-     {
-      "id": "kgsfree",
-      "name": "KHAN GLOBAL STUDIES 3",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
-      "study_link": "https://spidykgs.vercel.app",
-      "download_link": "https://spidykgs.vercel.app",
-      "tag": "Popular",
+        {
+      "id": "2",
+      "name": "Server 2 ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRSjer54T6_BSnomyPUPoqL5YHvfeckGFXxDYRGWvrcYR_NUehVUrksBmV&s=10",
+      "study_link": "https://studypanda.live/",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+        {
+      "id": "3",
+      "name": "Server3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRSjer54T6_BSnomyPUPoqL5YHvfeckGFXxDYRGWvrcYR_NUehVUrksBmV&s=10",
+      "study_link": "http://Studybeepro.site",
+      "tag": "New",
       "color": "#6366F1"
     },
     {
