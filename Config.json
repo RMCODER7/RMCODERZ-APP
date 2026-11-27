@@ -5,6 +5,8 @@
   "auth_enabled": true,
   "update": false,
   "Providerupdate": false,
+  "app_name": "R M   C O D E R",
+  "tagline": "Curated Premium Apps & Study Tools",
   "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGM4hjvWqQCa25jIK2tc01_Kak8DukNVwd1A&s",
   "admin_key": "RMFREE2026",
   "token_api": "https://6a1af270fcbec9e95e432045--splendid-malabi-74ce16.netlify.app/?access=1/",
