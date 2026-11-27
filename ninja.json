@@ -1,7 +1,7 @@
 
 {
   "auth_enabled": true,
-  "block_screenshot": true,
+  "block_screenshot": false,
   "sliders": [
     {
       "title": "SLIDE 1",
